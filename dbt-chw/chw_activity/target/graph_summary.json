@@ -1,0 +1,1 @@
+{"_invocation_id": "78ef01c3-68ca-4baf-b5d8-672f69e6fc5b", "linked": {"0": {"name": "source.chw_activity.chwdb.fct_chv_activity", "type": "source", "succ": [1]}, "1": {"name": "model.chw_activity.chw_activity_monthly", "type": "model"}}}

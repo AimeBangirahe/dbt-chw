@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: chwdb
+    database: chwdb
+    schema: marts
+
+    tables:
+      - name: fct_chv_activity
+ 
+
+        
