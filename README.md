@@ -1,1 +1,1 @@
-# chw_dbt
+# dbt-chw
